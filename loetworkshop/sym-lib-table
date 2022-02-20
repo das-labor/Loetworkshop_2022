@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name "TI_Logic")(type "KiCad")(uri "${KIPRJMOD}/TI_Logic.kicad_sym")(options "")(descr ""))
+)
