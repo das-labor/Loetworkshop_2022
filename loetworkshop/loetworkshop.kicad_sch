@@ -1630,7 +1630,7 @@
     (uuid 8bd678c5-38de-4e07-96ae-b7ff455294d0)
     (property "Reference" "U1" (id 0) (at 97.79 19.05 0))
     (property "Value" "CD40107BE" (id 1) (at 97.79 21.59 0))
-    (property "Footprint" "Package_DIP:DIP-8_W7.62mm" (id 2) (at 97.79 22.86 0)
+    (property "Footprint" "switch_footprints:DIP-8_W7.62mm_InvertedDualRow" (id 2) (at 97.79 22.86 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "https://www.ti.com/lit/ds/symlink/cd40107b.pdf" (id 3) (at 97.79 22.86 0)
@@ -1990,7 +1990,7 @@
       (reference "SW3") (unit 1) (value "SW_Push_SPDT") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical")
     )
     (path "/8bd678c5-38de-4e07-96ae-b7ff455294d0"
-      (reference "U1") (unit 1) (value "CD40107BE") (footprint "Package_DIP:DIP-8_W7.62mm")
+      (reference "U1") (unit 1) (value "CD40107BE") (footprint "switch_footprints:DIP-8_W7.62mm_InvertedDualRow")
     )
     (path "/3f06ceca-2295-4774-9307-7bda35753381"
       (reference "U2") (unit 1) (value "NE555P") (footprint "Package_DIP:DIP-8_W7.62mm")
