@@ -1500,7 +1500,7 @@
     (property "Value" "NE555P" (id 1) (at 206.4894 27.94 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Package_DIP:DIP-8_W7.62mm" (id 2) (at 220.98 48.26 0)
+    (property "Footprint" "switch_footprints:DIP-8_W7.62mm_InvertedDualRow" (id 2) (at 220.98 48.26 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "http://www.ti.com/lit/ds/symlink/ne555.pdf" (id 3) (at 226.06 48.26 0)
@@ -1993,7 +1993,7 @@
       (reference "U1") (unit 1) (value "CD40107BE") (footprint "Package_DIP:DIP-8_W7.62mm")
     )
     (path "/3f06ceca-2295-4774-9307-7bda35753381"
-      (reference "U2") (unit 1) (value "NE555P") (footprint "Package_DIP:DIP-8_W7.62mm")
+      (reference "U2") (unit 1) (value "NE555P") (footprint "switch_footprints:DIP-8_W7.62mm_InvertedDualRow")
     )
   )
 )
