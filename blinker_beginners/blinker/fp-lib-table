@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "timer_footprints")(type "KiCad")(uri "${KIPRJMOD}/FootprintLibrary/timer_footprints.pretty")(options "")(descr ""))
+)
