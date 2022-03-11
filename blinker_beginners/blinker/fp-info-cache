@@ -1,4 +1,4 @@
-20114347313386288
+20115994322901552
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -85602,6 +85602,13 @@ varistor SIOV
 0
 2
 2
+switch_footprints
+SW_PUSH_6mm
+https://www.omron.com/ecb/products/pdf/en-b3f.pdf
+tact sw push 6mm
+0
+4
+4
 timer_footprints
 DIP-8_W7.62mm_InvertedDualRow
 8-lead though-hole mounted DIP package, row spacing 7.62 mm (300 mils)
